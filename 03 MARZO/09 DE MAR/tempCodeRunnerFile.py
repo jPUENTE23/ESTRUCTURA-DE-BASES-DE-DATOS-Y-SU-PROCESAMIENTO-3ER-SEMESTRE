@@ -1,0 +1,1 @@
+respuesta = int(input("\n ¿Deseas capturar otro registro? \n(1-Si / 0-No): "))
